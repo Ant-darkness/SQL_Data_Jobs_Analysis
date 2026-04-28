@@ -240,3 +240,15 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
+
+## ♻️ About Me
+
+ I'm **ABELY J ABELY**, also known as **Ant_Darkness**. I’m Aspiring Data careers with hands-on experience in SQL data analysis projects
+
+## 🏛️ Contact
+Feel Free to reach out for collaboration or opportunities.
+
+-❄️**Email**:click [codewithabel1@gmail.com](mailto:codewithabel1@gmail.com)  
+<br>
+-✳️**WhatsApp**:[chat with me](https://wa.me/255714131519?text=Hello%20I%20saw%20your%20GitHub)
